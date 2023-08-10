@@ -1,0 +1,29 @@
+{
+  "sessions": 
+        [
+            {
+                "sessionId": "A1",
+                "sessionName": "Session 1",
+                "sessionStartTime": "14:00",
+                "sessionEndTime": "",
+                "sessionLocation": "Room 2",
+                "sessionDescription": "Session 1 Description"
+            },
+            { 
+                "sessionId": "B2",
+                "sessionName": "Longer Session 2 name testing",
+                "sessionStartTime": "14:30",
+                "sessionEndTime": "",
+                "sessionLocation": "Room 4",
+                "sessionDescription": "Session 2 Description"
+            },
+            { 
+                "sessionId": "C7",
+                "sessionName": "Session 7",
+                "sessionStartTime": "15:00",
+                "sessionEndTime": "",
+                "sessionLocation": "Room 6",
+                "sessionDescription": "Session 7 Description longer than the rest of them"
+            }
+        ]
+    }
